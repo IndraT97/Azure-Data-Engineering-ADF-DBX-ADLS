@@ -79,5 +79,5 @@ Manage Relationship
 * Unity Catelog
 * Various level of Ownership
 * ADF Git hub Versioning
-* DBX comman command used in Data Cleaning
+* DBX comman command used in Data Cleaning Activities
 * Few more interesting facts
