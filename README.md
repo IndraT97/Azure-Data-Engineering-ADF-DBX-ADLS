@@ -13,6 +13,10 @@ Below Architecture shows the movement of data from On-prem to cloud and transfor
   <img src="https://github.com/IndraT97/Azure-Data-Engineering-ADF-DBX-CI-CD/blob/master/Images/Project%20Architecture.png">
 </p>
 
+## Architecture
+
+### ABC
+
 ## Components and Data flow:
 
 •	SQL Server: On-premises Database which needs to be transformed. The SQL server was connected to Azure data factory using the self-hosted Integration runtime. The tables in the AdventureWorksLT2017 database was moved and transformed using Data factory into the Azure Data Lake storage. An user was created for the AdventureWorksLT2017 Database and the password was stored in the Key vault and was used by Data factory.
