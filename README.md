@@ -1,15 +1,17 @@
 # Azure-Data-Engineering (ADF-DBX-CI/CD)
 
-## Project Objestive
-**Ingesting on-premise data and transforming it using Azure Data Factory, Databricks and analyzing and reporting using Synapse and PowerBI**
+## Project Objective
+**Ingesting on-premise (SQL and SFTP) data and transforming it using Azure Data Factory, Databricks followed by analyzing and reporting using PowerBI**
 
-In this project the aim is to engineer the data present on the on-premises databases for generating insights and creating reports using the power of distributed computing using a cloud provider. There is a lot of data that is structured and exists in a database that is located on-premises. The quantity of data may be too large to be able to be transformed as required using the available compute power on-premises. Also, setting up infrastructure may not always be feasible as it requires planning, time and money and thus increases the lead time. Also, the infrastructure may become outdated or unnecessary in the near future. So, moving to cloud is the easiest way to achieve the desired results without much overhead.
+In this project the main aim is to understand the Flow of data from On-Prem to Cloud Platform while transforming the data to get the final set of tables for further analysis
+
+In real-time scenarios, organizations often grapple with petabytes of structured data dispersed across numerous on-premises locations. Leveraging cloud solutions streamlines data processing, circumventing the limitations and inefficiencies of current infrastructure. This shift not only sidesteps the extensive planning, time, and financial investment required for new infrastructure setup but also mitigates the risk of such investments becoming obsolete. Ultimately, transitioning to the cloud facilitates swift, cost-effective achievement of data processing objectives with minimal complexity
+
+Below Architecture shows the movement of data from On-prem to cloud and transformation happening on the data on various levels 
 
 <p align="center">
   <img src="https://github.com/IndraT97/Azure-Data-Engineering-ADF-DBX-CI-CD/blob/master/Images/Project%20Architecture.png">
 </p>
-
-In this case, the on-premises database is SQL server and I have used the publicly available AdventureWorksLT2017 database for this purpose. The reason for using this is, it is lightweight and helps control the costs incurred and to showcase the process rather than the computing power. The size of the Dataset in real life situation would be much larger and the architecture used in this project would still be able to handle it very efficiently. The high-level architecture diagram is as below.
 
 ## Components and Data flow:
 
