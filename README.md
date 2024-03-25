@@ -1,6 +1,6 @@
 # Data Loading and transformation from on-premises to Delta Lake storage for analytics and visualization using Azure
 
-#### <ins>Project Objective</ins>
+## Project Objestive
 Ingesting on-premise data and transforming it using Azure Data Factory, Databricks and analyzing and reporting using Synapse and PowerBI
 
 In this project the aim is to engineer the data present on the on-premises databases for generating insights and creating reports using the power of distributed computing using a cloud provider. There is a lot of data that is structured and exists in a database that is located on-premises. The quantity of data may be too large to be able to be transformed as required using the available compute power on-premises. Also, setting up infrastructure may not always be feasible as it requires planning, time and money and thus increases the lead time. Also, the infrastructure may become outdated or unnecessary in the near future. So, moving to cloud is the easiest way to achieve the desired results without much overhead.
@@ -11,7 +11,7 @@ In this project the aim is to engineer the data present on the on-premises datab
 
 In this case, the on-premises database is SQL server and I have used the publicly available AdventureWorksLT2017 database for this purpose. The reason for using this is, it is lightweight and helps control the costs incurred and to showcase the process rather than the computing power. The size of the Dataset in real life situation would be much larger and the architecture used in this project would still be able to handle it very efficiently. The high-level architecture diagram is as below.
 
-#### Components and Data flow:
+## Components and Data flow:
 
 •	SQL Server: On-premises Database which needs to be transformed. The SQL server was connected to Azure data factory using the self-hosted Integration runtime. The tables in the AdventureWorksLT2017 database was moved and transformed using Data factory into the Azure Data Lake storage. An user was created for the AdventureWorksLT2017 Database and the password was stored in the Key vault and was used by Data factory.
 
@@ -66,3 +66,12 @@ Data Loaded
 
 ![manage_relationship_powerbi](https://github.com/DataCounsel/Azure-Data-Engineering/assets/71335870/2d906536-9cc9-43e4-ac0e-3d24b1681a00)
 Manage Relationship
+
+## Concept to be covered in next project
+
+* RBAC
+* Unity Catelog
+* Various level of Ownership
+* ADF Git hub Versioning
+* DBX comman command used in Data Cleaning
+* Few more interesting facts
