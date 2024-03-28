@@ -137,7 +137,7 @@ The architecture provides three distinct methods for creating interconnectivity 
 
 * Role Based Access Control (RBAC)
 * Unity Catelog
-* Various level of Ownership
+* Various level of Enviroment Ownership
 * ADF Git Hub Versioning
 * DBX comman command used in Data Cleaning Activities
 * Few more interesting facts
