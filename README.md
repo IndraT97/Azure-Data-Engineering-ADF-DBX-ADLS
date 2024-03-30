@@ -9,8 +9,8 @@ In real-time scenarios, organizations often grapple with petabytes of structured
 
 # Table of Contents
 - [Project Architecture](#project-architecture)
-   * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
    * [Overall-Project-Flow](#Overall-Project-Flow)
+   * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
 - [Project Architecture](#project-architecture)
 - [About The Project](#about-the-project)
   * [Built With](#built-with)
