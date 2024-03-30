@@ -131,14 +131,21 @@ The architecture provides three distinct methods for creating interconnectivity 
 
 <p>
   <a href="https://learn.microsoft.com/en-us/azure/virtual-network/" target="_blank" rel="noreferrer">
-    <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="ADF" width="30" height="30" style="vertical-align:middle;"/>
+    <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="DBX" width="30" height="30" style="vertical-align:middle;"/>
   </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure DataBricks</span>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Databricks</span>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 # Transformation Activities in ADF 
+
+*
+*
+*
+*
+*
+*
 
 ## Concept to be covered in next project
 
