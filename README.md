@@ -8,7 +8,10 @@ In this project the main aim is to understand the Flow of data from On-Prem to C
 In real-time scenarios, organizations often grapple with petabytes of structured data dispersed across numerous on-premises locations. Leveraging cloud solutions streamlines data processing, circumventing the limitations and inefficiencies of current infrastructure. This shift not only sidesteps the extensive planning, time, and financial investment required for new infrastructure setup but also mitigates the risk of such investments becoming obsolete. Ultimately, transitioning to the cloud facilitates swift, cost-effective achievement of data processing objectives with minimal complexity
 
 # Table of Contents
-- [Architecture](#project-architecture)
+- [Project Architecture](#project-architecture)
+   * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
+   * [Overall-Project-Flow](#Overall-Project-Flow)
+- [Project Architecture](#project-architecture)
 - [About The Project](#about-the-project)
   * [Built With](#built-with)
 - [Getting Started](#getting-started)
