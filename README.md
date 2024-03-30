@@ -8,14 +8,19 @@ In this project the main aim is to understand the Flow of data from On-Prem to C
 In real-time scenarios, organizations often grapple with petabytes of structured data dispersed across numerous on-premises locations. Leveraging cloud solutions streamlines data processing, circumventing the limitations and inefficiencies of current infrastructure. This shift not only sidesteps the extensive planning, time, and financial investment required for new infrastructure setup but also mitigates the risk of such investments becoming obsolete. Ultimately, transitioning to the cloud facilitates swift, cost-effective achievement of data processing objectives with minimal complexity
 
 # Table of Contents
-- [Project Architecture](#project-architecture)
-   * [Overall-Project-Flow](#Overall-Project-Flow)
-   * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
-   * [MetaData Flow (Data Ingestion)](#MetaData-Flow-Data-Ingestion)
-   * [General Industry Pratice (Data Ingestion)](#General-Industry-Pratice-Data-Ingestion)
-- [Azure Services used in the Project](#Azure-Services-used-in-the-Project)
-- [Transformation Activities in ADF](#Transformation-Activities-in-ADF)
-- [Concept to be covered in next project](#Concept-to-be-covered-in-next-project)
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    - [Project Architecture](#project-architecture)
+       * [Overall-Project-Flow](#Overall-Project-Flow)
+       * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
+       * [MetaData Flow (Data Ingestion)](#MetaData-Flow-Data-Ingestion)
+       * [General Industry Pratice (Data Ingestion)](#General-Industry-Pratice-Data-Ingestion)
+    - [Azure Services used in the Project](#Azure-Services-used-in-the-Project)
+    - [Transformation Activities in ADF](#Transformation-Activities-in-ADF)
+    - [Concept to be covered in next project](#Concept-to-be-covered-in-next-project)
+  </ol>
+</details>
 
 # Project Architecture
 
