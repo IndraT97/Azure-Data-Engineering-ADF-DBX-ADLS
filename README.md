@@ -56,7 +56,7 @@ The architecture provides three distinct methods for creating interconnectivity 
   <img src="https://github.com/IndraT97/Azure-Data-Engineering-ADF-DBX-CI-CD/blob/master/Images/MetaData%20Flow.png">
 </p>
 
-### General Industry Pratice (Data Ingestion) 
+### General Industry Practice (Data Ingestion) 
 
 * In real-world scenarios, an Azure Virtual Machine with Self-Hosted Integration Runtime (SHIR) is set up to serve as a conduit between on-premises environments and Azure serices (Azure Data Factory (ADF))
 * Ports Azure VM are configured to allow communication with on-premises data sources, assuming that all on-premises resources are protected by a common firewall
