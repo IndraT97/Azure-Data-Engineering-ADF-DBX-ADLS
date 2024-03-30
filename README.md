@@ -1,4 +1,4 @@
-# Azure-Data-Engineering (ADF-DBX-CI/CD)
+# Azure-Data-Engineering (ADF-DBX-ADLS)
 <a name="readme-top"></a>
 # Project Objective
 **Ingesting on-premise (SQL and SFTP) data and transforming it using Azure Data Factory, Databricks followed by analyzing and reporting using PowerBI**
