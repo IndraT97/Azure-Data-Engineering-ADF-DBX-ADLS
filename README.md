@@ -71,6 +71,7 @@ The architecture provides three distinct methods for creating interconnectivity 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- Services -->
 # Azure Services used in the Project
 
 <p>
