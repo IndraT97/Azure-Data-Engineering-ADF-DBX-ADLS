@@ -102,7 +102,7 @@ The architecture provides three distinct methods for creating interconnectivity 
 </p>
 
 <p>
-  <a href=https://learn.microsoft.com/en-us/azure/databricks/" target="_blank" rel="noreferrer">
+  <a href="https://learn.microsoft.com/en-us/azure/databricks/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="DBX" width="30" height="30" style="vertical-align:middle;"/>
   </a>
   <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Databricks</span>
