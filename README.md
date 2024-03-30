@@ -11,14 +11,17 @@ In real-time scenarios, organizations often grapple with petabytes of structured
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    - [Project Architecture](#project-architecture)
-       * [Overall-Project-Flow](#Overall-Project-Flow)
-       * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
-       * [MetaData Flow (Data Ingestion)](#MetaData-Flow-Data-Ingestion)
-       * [General Industry Pratice (Data Ingestion)](#General-Industry-Pratice-Data-Ingestion)
-    - [Azure Services used in the Project](#Azure-Services-used-in-the-Project)
-    - [Transformation Activities in ADF](#Transformation-Activities-in-ADF)
-    - [Concept to be covered in next project](#Concept-to-be-covered-in-next-project)
+    <li><a href="#project-architecture">Project Architecture</a>
+      <ul>
+        <li><a href="#overall-project-flow">Overall Project Flow</a></li>
+        <li><a href="#linked-service-architecture">Linked Service Architecture</a></li>
+        <li><a href="#metadata-flow-data-ingestion">MetaData Flow (Data Ingestion)</a></li>
+        <li><a href="#general-industry-practice-data-ingestion">General Industry Practice (Data Ingestion)</a></li>
+      </ul>
+    </li>
+    <li><a href="#azure-services-used-in-the-project">Azure Services used in the Project</a></li>
+    <li><a href="#transformation-activities-in-adf">Transformation Activities in ADF</a></li>
+    <li><a href="#concept-to-be-covered-in-next-project">Concept to be covered in next project</a></li>
   </ol>
 </details>
 
