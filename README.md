@@ -12,7 +12,7 @@ In real-time scenarios, organizations often grapple with petabytes of structured
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#Azure Services used in the Project">Services</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
