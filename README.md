@@ -74,38 +74,10 @@ The architecture provides three distinct methods for creating interconnectivity 
 # Azure Services used in the Project
 
 <p>
-  <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" target="_blank" rel="noreferrer">
-    <img src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" alt="Azure DevOps" width="25" height="25" style="vertical-align:middle;"/>
-  </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Devops</span>
-</p>
-
-<p>
   <a href="https://learn.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction" target="_blank" rel="noreferrer">
     <img src="https://code.benco.io/icon-collection/azure-icons/Data-Lake-Storage-Gen1.svg" alt="ADLS Gen2" width="25" height="25" style="vertical-align:middle;"/>
   </a>
   <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">ADLS Gen2</span>
-</p>
-
-<p>
-  <a href="https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?tabs=data-factory" target="_blank" rel="noreferrer">
-    <img src="https://code.benco.io/icon-collection/azure-icons/App-Service-Plans.svg" alt="Azure SHIR" width="30" height="30" style="vertical-align:middle;"/>
-  </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure SHIR</span>
-</p>
-
-<p>
-  <a href="https://learn.microsoft.com/en-us/azure/key-vault/" target="_blank" rel="noreferrer">
-    <img src="https://code.benco.io/icon-collection/azure-icons/Key-Vaults.svg" alt="Azure Key_Vault" width="30" height="30" style="vertical-align:middle;"/>
-  </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Key_Vault</span>
-</p>
-
-<p>
-  <a href="https://learn.microsoft.com/en-us/azure/logic-apps/" target="_blank" rel="noreferrer">
-    <img src="https://code.benco.io/icon-collection/azure-icons/Logic-Apps.svg" alt="Azure Logic_App" width="30" height="30" style="vertical-align:middle;"/>
-  </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Logic_App</span>
 </p>
 
 <p>
@@ -119,14 +91,14 @@ The architecture provides three distinct methods for creating interconnectivity 
   <a href="https://learn.microsoft.com/en-us/azure/virtual-network/" target="_blank" rel="noreferrer">
     <img src="https://code.benco.io/icon-collection/azure-icons/Virtual-Networks-(Classic).svg" alt="Azure Virtual Network" width="30" height="30" style="vertical-align:middle;"/>
   </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Virtual_Network</span>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Virtual Network</span>
 </p>
 
 <p>
   <a href="https://learn.microsoft.com/en-us/azure/virtual-network/" target="_blank" rel="noreferrer">
     <img src="https://code.benco.io/icon-collection/azure-icons/Data-Factory.svg" alt="ADF" width="30" height="30" style="vertical-align:middle;"/>
   </a>
-  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Data_Factory</span>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Data Factory</span>
 </p>
 
 <p>
@@ -135,6 +107,35 @@ The architecture provides three distinct methods for creating interconnectivity 
   </a>
   <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Databricks</span>
 </p>
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/azure/data-factory/create-self-hosted-integration-runtime?tabs=data-factory" target="_blank" rel="noreferrer">
+    <img src="https://code.benco.io/icon-collection/azure-icons/App-Service-Plans.svg" alt="Azure SHIR" width="30" height="30" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure SHIR</span>
+</p>
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/azure/logic-apps/" target="_blank" rel="noreferrer">
+    <img src="https://code.benco.io/icon-collection/azure-icons/Logic-Apps.svg" alt="Azure Logic App" width="30" height="30" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Logic App</span>
+</p>
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/azure/key-vault/" target="_blank" rel="noreferrer">
+    <img src="https://code.benco.io/icon-collection/azure-icons/Key-Vaults.svg" alt="Azure Key Vault" width="30" height="30" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Key Vault</span>
+</p>
+
+<p>
+  <a href="https://learn.microsoft.com/en-us/azure/devops/?view=azure-devops" target="_blank" rel="noreferrer">
+    <img src="https://code.benco.io/icon-collection/azure-icons/Azure-DevOps.svg" alt="Azure DevOps" width="25" height="25" style="vertical-align:middle;"/>
+  </a>
+  <span style="vertical-align:middle; line-height:normal; display:inline-block; margin-left:5px;">Azure Devops</span>
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
