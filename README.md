@@ -11,18 +11,11 @@ In real-time scenarios, organizations often grapple with petabytes of structured
 - [Project Architecture](#project-architecture)
    * [Overall-Project-Flow](#Overall-Project-Flow)
    * [Linked-Serive-Architecture](#Linked-Serive-Architecture)
-- [Project Architecture](#project-architecture)
-- [About The Project](#about-the-project)
-  * [Built With](#built-with)
-- [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-- [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-- [Acknowledgments](#acknowledgments)
+   * [MetaData Flow (Data Ingestion)](#MetaData-Flow-(Data-Ingestion))
+   * [General Industry Pratice (Data Ingestion)](#General-Industry-Pratice-(Data-Ingestion))
+- [Azure Services used in the Project](#Azure-Services-used-in-the-Project)
+- [Transformation Activities in ADF](#Transformation-Activities-in-ADF)
+- [Concept to be covered in next project](#Concept-to-be-covered-in-next-project)
 
 # Project Architecture
 
