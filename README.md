@@ -14,7 +14,7 @@ In real-time scenarios, organizations often grapple with petabytes of structured
     <li><a href="#project-architecture">Project Architecture</a>
       <ul>
         <li><a href="#overall-project-flow">Overall Project Flow</a></li>
-        <li><a href="#linked-service-architecture">Linked Service Architecture</a></li>
+        <li><a href="#Linked-Serive-Architecture">Linked Service Architecture</a></li>
         <li><a href="#metadata-flow-data-ingestion">MetaData Flow (Data Ingestion)</a></li>
         <li><a href="#general-industry-practice-data-ingestion">General Industry Practice (Data Ingestion)</a></li>
       </ul>
