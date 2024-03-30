@@ -7,9 +7,9 @@ In this project the main aim is to understand the Flow of data from On-Prem to C
 
 In real-time scenarios, organizations often grapple with petabytes of structured data dispersed across numerous on-premises locations. Leveraging cloud solutions streamlines data processing, circumventing the limitations and inefficiencies of current infrastructure. This shift not only sidesteps the extensive planning, time, and financial investment required for new infrastructure setup but also mitigates the risk of such investments becoming obsolete. Ultimately, transitioning to the cloud facilitates swift, cost-effective achievement of data processing objectives with minimal complexity
 
-# Table of Contents
+# Table of Content
 <details>
-  <summary>Table of Contents</summary>
+  <summary>Table of Content</summary>
   <ol>
     <li><a href="#project-architecture">Project Architecture</a>
       <ul>
@@ -134,8 +134,16 @@ The architecture provides three distinct methods for creating interconnectivity 
 
 # Transformation Activities in ADF 
 
-*
-*
+* **Azure SHIR** - *Used to ingest data into ADF from On-Prem Via Azure VM*.\
+&nbsp;
+
+The Self-Hosted Integration Runtime (SHIR) is a feature in Azure Data Factory that enables secure data transfer between different network environments, such as between on-premises data stores and cloud services, without requiring data to pass through the public internet​
+
+* **Azure Resource Group** - *Created azure Services (ADF, DBX, ADLS, etc) under one resources one Group*.\
+&nbsp;
+
+An Azure Resource Group is a container that holds related resources for an Azure solution, allowing you to manage and organize them as a single entity, often reflecting an application or service. It simplifies the management of resources, including their lifecycle, access control, and billing
+
 *
 *
 *
