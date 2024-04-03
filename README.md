@@ -144,10 +144,40 @@ The Self-Hosted Integration Runtime (SHIR) is a feature in Azure Data Factory th
 
 An Azure Resource Group is a container that holds related resources for an Azure solution, allowing you to manage and organize them as a single entity, often reflecting an application or service. It simplifies the management of resources, including their lifecycle, access control, and billing
 
-*
-*
-*
-*
+* **Azure Data Factory** - *Primarily utilized for transforming and modeling data during the transition from the raw stage to a more refined, curated layer*.\
+&nbsp;
+
+Azure Data Factory is a cloud-based data integration service that allows you to create, schedule, and orchestrate data workflows for moving and transforming data between different services and data stores. It supports building data-driven pipelines to direct the flow of data and transform it into a structured format for analysis and reporting
+
+* **Azure Databricks** - *Mainly utilized for scripting table creation, logging activities, and data transformation tasks*.\
+&nbsp;
+
+Azure Databricks is a cloud-based analytics platform optimized for the Microsoft Azure cloud services platform. It offers an integrated environment for big data processing, analytics, and machine learning, facilitating collaboration between data scientists, data engineers, and business analysts
+
+* **Azure Virtual Network** - *Created a VN in order to deploy Azure Databricks*.\
+&nbsp;
+
+Azure Virtual Network (VNet) is a fundamental building block for your private network in Azure, allowing you to securely link Azure services to each other and to on-premise networks. It enables the creation of a logically isolated section within the Azure cloud where you can launch and manage virtual machines, specify DNS settings, and configure network security groups and routing
+
+* **Azure ADLS Gen2** - *Utilized ADLS Gen2 for storing both ingested raw data and processed data within specifically created containers inside ADLS Gen2*.\
+&nbsp;
+
+Azure ADLS Gen2 (Azure Data Lake Storage Generation 2) combines the capabilities of Azure Data Lake Storage Gen1 with Azure Blob storage, offering a highly scalable and cost-effective data lake solution for big data analytics. It provides advanced security features, performance, and management ease, making it suitable for a wide range of big data analytics and storage scenarios
+
+* **Azure Logic App** - *Leveraged Logic Apps for email notifications, configuring it to send alerts upon the start, stop, and failure of pipelines through a Web Service activity within Azure Data Factory*.\
+&nbsp;
+
+Azure Logic Apps is a cloud service that helps you automate workflows and integrate apps, data, services, and systems across enterprises or organizations. It provides a visual designer to model and automate processes as a series of steps known as a workflow, enabling tasks and business processes to be automated without writing code
+
+* **Azure Key Vault** - *Utilized Azure Key Vault for securely storing secrets crucial for on-premises and interservice connectivity, ensuring protected access to sensitive information*.\
+&nbsp;
+
+Azure Key Vault is a cloud service that provides a secure store for secrets, keys, certificates, and other sensitive information. It enables users to securely manage and protect cryptographic keys and secrets used by cloud applications and services, minimizing the risks associated with directly storing these in code or elsewhere
+
+* **Azure Devops** - *Used Azure DevOps Boards to organize sprints and user stories, and implemented Git for version control to manage and track changes in the project codebase*.\
+&nbsp;
+
+Azure Logic Apps is a cloud service that helps you automate workflows and integrate apps, data, services, and systems across enterprises or organizations. It provides a visual designer to model and automate processes as a series of steps known as a workflow, enabling tasks and business processes to be automated without writing code
 
 ## Concept to be covered in next project
 
