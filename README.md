@@ -47,6 +47,9 @@ The architecture provides three distinct methods for creating interconnectivity 
 * User Assigned Managed Identity
 * Access Code
 
+Note : Databricks Delta lake is logical storage layer for Databricks even though we are using ADLS Gen 2 for actual storage. 
+So whenever we want to establish connection between ADF to Databricks we need to create two linked services. 1 - ADF and Databricks Compute and 2 - ADF and Databricks Deltalake   
+
 ### MetaData Flow (Data Ingestion)
 * The architecture highlighted delineates the pathways of Metadata exchange and the actual movement of Structured Data from On-Premises Data Sources
 * The direction of Metadata and actual Data Flow is reciprocal
