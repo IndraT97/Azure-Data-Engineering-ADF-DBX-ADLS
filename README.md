@@ -49,6 +49,7 @@ The architecture provides three distinct methods for creating interconnectivity 
 
 Note : 
 1 - Databricks Deltalake is logical storage layer for Databricks even though we are using ADLS Gen 2 for actual storage. So whenever we want to establish connection between ADF to Databricks we need to create two linked services. 1 - ADF to Databricks Compute and 2 - ADF to Databricks Deltalake
+
 2 - Because (Databricks Deltalake) Delta Lake tables are stored in ADLS Gen2, Databricks accesses Delta via its existing connection to ADLS Gen2 viz SPN 
 
 ### MetaData Flow (Data Ingestion)
